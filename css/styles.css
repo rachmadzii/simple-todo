@@ -1,0 +1,80 @@
+body {
+	font-family: 'Poppins';
+}
+
+/* Logo To Do */
+.logo {
+	width: 140px;
+	height: 140px;
+	margin-top: 50px;
+}
+
+/* Title To Do */
+h4 {
+	font-style: normal;
+	font-weight: bolder;
+	margin-top: 15px;
+}
+
+/* Button */
+.add-btn {
+	width: 150px;
+	height: 40px;
+	background: #A7D6DD;
+	border-radius: 5px;
+	margin-left: 200px;
+}
+.filter-btn {
+	width: 50px;
+	height: 40px;
+	background: #A7D6DD;
+	border-radius: 5px;
+}
+.small-btn {
+	background: #A7D6DD;
+	border-radius: 5px;
+}
+.filter-select {
+	border-radius: 5px;
+}
+.submit-btn {
+	width: 140px;
+	height: 40px;
+	background: #A7D6DD;
+	border-radius: 5px;
+	margin-top: 22px;
+}
+
+/* Icon */
+.icon {
+	margin-right: 10px;
+}
+.delete {
+	background-color: #fb3640;
+}
+
+/* Content */
+.container {
+	margin-top: 50px;
+	margin-left: 55px;
+}
+.table-list {
+	margin: 100px 80px 60px 65px; /* top right bottom left */
+}
+.form-add {
+	margin: 50px 70px; /* top-bottom, right-left */
+}
+
+/* Table */
+table {
+	width: 100%;
+}
+thead {
+	background-color: #FDB62F;
+}
+td, th {
+	vertical-align: middle;
+}
+label {
+	margin-top: 15px;
+}
